@@ -40,13 +40,3 @@ LookCast guides you through a seamless, 3-step onboarding flow:
 * **Database:** SQLite (Local state & wardrobe management)
 * **Concurrency:** `asyncio` (Non-blocking thread execution for high-speed response)
 
----
-
-## 🚀 Getting Started (Local Setup)
-
-Follow these steps to run LookCast locally:
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/LookCast.git](https://github.com/YOUR_USERNAME/LookCast.git)
-cd LookCast
